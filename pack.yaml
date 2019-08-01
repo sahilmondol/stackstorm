@@ -12,15 +12,11 @@ keywords:
     - test
 # Pack version which must follow semver format (<major>.<minor>.<patch> e.g. 1.0.0)
 version: 3.1.0
-# A list of major Python versions pack is tested with and works with.
-python_versions:
-  - "2"
-  - "3"
 # Name of the pack author.
 author: StackStorm, Inc.
 # Email of the pack author.
 email: info@stackstorm.com
 # Optional list of additional contributors to the pack.
 contributors:
-  - "Sahil Mondol1 <sahilmondol9@gmail.com>"
   - "Sahil Mondol2 <sahilmondol95@gmail.com>" 
+  - "Sahil Mondol1 <sahilmondol9@gmail.com>"
